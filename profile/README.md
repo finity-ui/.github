@@ -1,7 +1,7 @@
 <div align="center">
 <img alt="finity ui logo" src="https://user-images.githubusercontent.com/12442269/236571345-9c6dfcff-2dfd-4dfa-b522-4cc8333f4027.png">
     <h1>Finity UI</h1>
-    <strong>Open-source Web3 component library for Tailwind CSS based on Finity Design System 💜</strong>
+    <strong>Web3 component library for Tailwind CSS 💜</strong>
 </div>
 <br>
 <br>
