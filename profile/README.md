@@ -1,4 +1,5 @@
-<div align="center">
+<div align="center"><img width="85" alt="logo" src="https://user-images.githubusercontent.com/12442269/236571345-9c6dfcff-2dfd-4dfa-b522-4cc8333f4027.png">
+
     <h1>Finity UI</h1>
     <strong>Open-source Web3 component library for Tailwind CSS based on Finity Design System 💜</strong>
 </div>
@@ -26,38 +27,3 @@
     <br><br>
     <a href="https://github.com/finity-ui/finity-ui/issues/new"><b>Issues</b></a>
 </div>
-
-## Documentation
-
-WIP
-
-## Getting started
-
-To use `finity`, you just need to install `finity-ui` from `npm`.
-
-### Require via `npm`
-
-Make sure that you have <a href="https://nodejs.org/en/" rel="nofollow" >Node.js</a> and <a href="https://tailwindcss.com/" rel="nofollow" >Tailwind CSS</a> installed.
-
-1. Install `finity-ui` as a dependency using `npm` by running the following command:
-
-```bash
-npm i finity-ui
-```
-
-OR
-
-```bash
-yarn add finity-ui
-```
-
-## 💕 Contributors
-
-We love contributors! Feel free to contribute to this project but please read the [Contributing Guidelines](CONTRIBUTING.md) before opening an issue or PR so you understand the branching strategy and local development environment.
-
-## Figma
-
-This library is based on Finity design system for Web3 by Polygon.
-Check out `Polygon.technology` and `Cope.Studio` for more information:
-
-🎨 [Get the Figma design files](https://finity.polygon.technology/)
