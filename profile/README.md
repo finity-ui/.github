@@ -6,7 +6,6 @@
 <br>
 <br>
 <div align="center">
-    <br>
     <a href="https://finityui.com/"><b>finityui.com »</b></a>
     <br><br>
     <a href="https://github.com/finity-ui/finity-ui/issues/new"><b>Issues</b></a>
