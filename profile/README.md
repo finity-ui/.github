@@ -4,6 +4,7 @@
     <strong>Open-source Web3 component library for Tailwind CSS based on Finity Design System 💜</strong>
 </div>
 
+
 <br>
 <br>
 <div align="center">
