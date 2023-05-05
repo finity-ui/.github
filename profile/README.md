@@ -5,6 +5,7 @@
 </div>
 <br>
 <br>
+<div align="center">
     <br>
     <a href="https://finityui.com/"><b>finityui.com »</b></a>
     <br><br>
